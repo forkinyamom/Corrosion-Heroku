@@ -3,7 +3,7 @@
 Titanium Networks main web proxy.
 Successor to [Alloy](https://github.com/titaniumnetwork-dev/alloy).
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sussycherri/Corrosion-Heroku)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/forkinyamom/Corrosion-Heroku)
 
 ## Table of Contents
 - [Corrosion](#corrosion)
